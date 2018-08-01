@@ -1,0 +1,10 @@
+Better understanding of stuff like KRKRB == drawish, Q's come off = !drawish
+Think about the path to a killer instead of the depth of a killer
+Pawnhash size tunable from cmdline again
+Evalhash size tunable?
+EGTB cache size tunable?
+Poshash size tunable?
+Think about when to avoid nullmove pruning based on checks in the line
+Think about futility pruning when a >= +NMATE
+Stick eval / king score in ply info and use it to trigger extensions
+

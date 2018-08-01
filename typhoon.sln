@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "typhoon", "typhoon.vcproj", "{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		DTEST = DTEST
+		Eval Dumper = Eval Dumper
+		MP Debug = MP Debug
+		MP Release = MP Release
+		Release = Release
+		TEST = TEST
+		Tree Dumper = Tree Dumper
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.Debug.ActiveCfg = Debug|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.Debug.Build.0 = Debug|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.DTEST.ActiveCfg = DTEST|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.DTEST.Build.0 = DTEST|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.Eval Dumper.ActiveCfg = Eval Dumper|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.Eval Dumper.Build.0 = Eval Dumper|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.MP Debug.ActiveCfg = MP Debug|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.MP Debug.Build.0 = MP Debug|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.MP Release.ActiveCfg = MP Release|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.MP Release.Build.0 = MP Release|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.Release.ActiveCfg = Release|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.Release.Build.0 = Release|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.TEST.ActiveCfg = TEST|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.TEST.Build.0 = TEST|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.Tree Dumper.ActiveCfg = Tree Dumper|Win32
+		{47D01EEB-6CAD-498E-8C81-DF144E8CAD1B}.Tree Dumper.Build.0 = Tree Dumper|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

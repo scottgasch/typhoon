@@ -1,0 +1,35 @@
+
+    Most of the code in this directory is code that I wrote and has
+    the comment "Copyright (C) Scott Gasch" at the start of the file.
+    You can do whatever you want with this code except:
+
+        1. Redistribute it; I'd like to be the "official" source for
+           code related to this engine.
+        2. Sell it; as the copyright holder I expressly forbid you
+           from selling the code or any binary it produces.
+        3. Claim it is your own; any work based on or inspired by the
+           code in question must also contain the copyright notice and
+           my name.
+
+    Some of the code under this directory (specifically, the genetic
+    programming framework implemented in Java) was written by me but
+    is released under the Apache 2.0 license (which is more liberal
+    than the restrictions above).
+
+    Some of the code in this directory was written by other people.
+    For example, mersenne.c, egtb.cpp and tbdecode.h.  I am using this
+    code by permission and do not own the copyright for it.  Please
+    contact the code's original author (see comments) for details
+    about what can and cannot be done with it.
+
+    THIS SOFTWARE IS PROVIDED BY THE AUTHOR `AS IS'' AND ANY EXPRESS
+    OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+    ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+    DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+    GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+    INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+    WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+    NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
